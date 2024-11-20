@@ -1,5 +1,7 @@
 # Donald Trump Tweet Archive
-This repository contains a hand picked archive of tweets from former (at the time of writing this) U.S. President Donald Trump, collected to use within the trumptweetguesser game. It includes those that were deleted but still available as of 2016. Accross X (formerly twitter) and truth social, Donald has authored close to 60k tweets, with topics ranging from politics to personal commentary. This web app has no political ties or agenda, and serves to simply outline how outrageous/funny/crazy some of Donald's tweets have been. 
+This repository contains a hand picked archive of tweets from U.S. President Donald Trump, collected to use within the trumptweetguesser.com game. 
+
+This web app has no political ties or agenda, and serves to simply outline how outrageous/funny/crazy some of Donald's tweets have been. 
 
 Thanks to resources like The Trump Archive and the community of developers and archivists, archives of Donald's tweets have made development of our tweet guesser game possible. 
 
